@@ -4,7 +4,7 @@
 
 Meu nome é Caique, tenho 31 anos e sou analista de dados. Sempre tive uma afinidade natural com a tecnologia, o que me motivou, em 2022, a iniciar o curso de Análise e Desenvolvimento de Sistemas. Durante a formação, desenvolvi um interesse especial pela área de dados e, desde então, venho me aprofundando em Python com foco em back-end e ciência de dados, além de SQL e Power BI voltados para análise e visualização de dados.
 
-# Meu Projeto com SQL
+
 
 
 ---
